@@ -1,0 +1,28 @@
+body{
+    color: black;
+    background-color: rgb(241, 237, 8);
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.introtag{
+    text-align: center;
+}
+
+.introtag h1{
+    font-size: 4rem;
+    margin: 0;
+}
+.introtag hr{
+    height:2px;
+    background-color: black;
+}
+
+.introtag p {
+    font-size: 18px;
+    margin: 0;
+}
