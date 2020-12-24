@@ -3,7 +3,6 @@ from flask import render_template
 import os
 from decouple import config
 
-API_USERNAME = config('USER')
 API_KEY = config('KEY')
 print(API_KEY)
 app = Flask(__name__)
